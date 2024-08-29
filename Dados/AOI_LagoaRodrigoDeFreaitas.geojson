@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AOI_LagoaRodrigoDeFreaitas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -43.222383590854307, -22.992369073565058 ], [ -43.222383590854307, -22.961142580041017 ], [ -43.180741562205711, -22.961142580041017 ], [ -43.180741562205711, -22.992369073565058 ], [ -43.222383590854307, -22.992369073565058 ] ] ] } }
+]
+}
